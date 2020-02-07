@@ -5,6 +5,7 @@
     "main": "main.js",
     "scripts": {
         "test": "mocha"
+        "sonar": "node sonar-project.js"
     },
     "repository": "",
     "keywords": [
